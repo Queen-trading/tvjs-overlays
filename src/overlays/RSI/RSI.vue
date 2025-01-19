@@ -12,7 +12,7 @@ export default {
                 desc: 'Relative Strength Index',
                 preset: {
                     name: 'RSI $length',
-                    side: 'offchart',
+                    side: 'onchart',
                     settings: {
                         lineWidth: 0.75,
                         color: '#ec206e',
