@@ -1,0 +1,184 @@
+{
+    "overlays": {
+        "ALMA": {
+            "version": "1.0.0",
+            "author": "StdSquad",
+            "is_tool": false
+        },
+        "ATR": {
+            "version": "1.0.0",
+            "author": "StdSquad",
+            "is_tool": false
+        },
+        "ATRp": {
+            "version": "1.0.0",
+            "author": "StdSquad",
+            "is_tool": false
+        },
+        "Area51": {
+            "version": "1.0.0",
+            "author": "👽",
+            "is_tool": false
+        },
+        "BB": {
+            "version": "1.0.0",
+            "author": "StdSquad",
+            "is_tool": false
+        },
+        "BBW": {
+            "version": "1.0.0",
+            "author": "StdSquad",
+            "is_tool": false
+        },
+        "CCI": {
+            "version": "1.0.0",
+            "author": "StdSquad",
+            "is_tool": false
+        },
+        "CMO": {
+            "version": "1.0.0",
+            "author": "StdSquad",
+            "is_tool": false
+        },
+        "COG": {
+            "version": "1.0.0",
+            "author": "StdSquad",
+            "is_tool": false
+        },
+        "DHistogram": {
+            "version": "1.0.0",
+            "author": "Acid3croco",
+            "is_tool": false
+        },
+        "DMI": {
+            "version": "1.0.0",
+            "author": "StdSquad",
+            "is_tool": false
+        },
+        "EMA": {
+            "version": "1.0.0",
+            "author": "StdSquad",
+            "is_tool": false
+        },
+        "HMA": {
+            "version": "1.0.0",
+            "author": "StdSquad",
+            "is_tool": false
+        },
+        "Histogram": {
+            "version": "1.0.0",
+            "author": "StdSquad",
+            "is_tool": false
+        },
+        "Ichi": {
+            "version": "1.0.0",
+            "author": "C451",
+            "is_tool": false
+        },
+        "Ichimoku": {
+            "version": "1.0.0",
+            "author": "Sudeep Batra",
+            "is_tool": false
+        },
+        "KC": {
+            "version": "1.0.0",
+            "author": "StdSquad",
+            "is_tool": false
+        },
+        "KCW": {
+            "version": "1.0.0",
+            "author": "StdSquad",
+            "is_tool": false
+        },
+        "LongShortTrades": {
+            "version": "1.0.1",
+            "author": "Sudeep Batra",
+            "is_tool": false
+        },
+        "MACD": {
+            "version": "1.0.2",
+            "author": "StdSquad",
+            "is_tool": false
+        },
+        "MFI": {
+            "version": "1.0.0",
+            "author": "StdSquad",
+            "is_tool": false
+        },
+        "MOM": {
+            "version": "1.0.0",
+            "author": "StdSquad",
+            "is_tool": false
+        },
+        "Markers": {
+            "version": "1.0.1",
+            "author": "C451",
+            "is_tool": false
+        },
+        "PlotCross": {
+            "version": "1.0.0",
+            "author": "StdSquad",
+            "is_tool": false
+        },
+        "ROC": {
+            "version": "1.0.0",
+            "author": "StdSquad",
+            "is_tool": false
+        },
+        "RSI": {
+            "version": "1.0.0",
+            "author": "StdSquad",
+            "is_tool": false
+        },
+        "Ribbon": {
+            "version": "1.0.0",
+            "author": "StdSquad",
+            "is_tool": false
+        },
+        "SAR": {
+            "version": "1.0.0",
+            "author": "StdSquad",
+            "is_tool": false
+        },
+        "SMA": {
+            "version": "1.0.0",
+            "author": "StdSquad",
+            "is_tool": false
+        },
+        "SWMA": {
+            "version": "1.0.0",
+            "author": "StdSquad",
+            "is_tool": false
+        },
+        "Stoch": {
+            "version": "1.0.0",
+            "author": "StdSquad",
+            "is_tool": false
+        },
+        "TSI": {
+            "version": "1.0.0",
+            "author": "StdSquad",
+            "is_tool": false
+        },
+        "TradesPlus": {
+            "version": "1.0.1",
+            "author": "C451",
+            "is_tool": false
+        },
+        "VWMA": {
+            "version": "1.0.0",
+            "author": "StdSquad",
+            "is_tool": false
+        },
+        "WilliamsR": {
+            "version": "1.0.0",
+            "author": "StdSquad",
+            "is_tool": false
+        },
+        "XOhlcBars": {
+            "version": "1.3.0",
+            "author": "X",
+            "is_tool": false
+        }
+    }
+}
